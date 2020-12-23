@@ -1,0 +1,28 @@
+﻿1.Code Smells
+
+Long Method
+ > 10 dòng là dài. 6->8 dòng là lý tưởng.
+   Long Method 
+		1.Parameter : 3 tham số, lớn hơn tạo thành class
+Large Class : Class quá dài.
+   . Chứa nhiều trường , method.
+Duplicae Observer Data:
+   . 
+Payoff:
+Treatment: 
+Thay thế mảng bằng object
+
+Thay parameter bang ham so.
+Các biến null, thừa 
+
+Refuse Request
+Kế thừa nhầm ( chó 4 chấn. ghế 4 chân)
+
+
+Reshafper
+
+
+https://viblo.asia/p/code-smell-and-refactoring-3P0lPYN45ox
+
+
+ReactJs: https://github.com/Amitabh-K/e-commerce-market-place
